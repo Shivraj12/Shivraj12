@@ -1,4 +1,4 @@
-###👋 Hi, I'm Shivraj Deshmukh
+👋 ###Hi, I'm Shivraj Deshmukh
 🚀 React Full Stack Developer | AI & Machine Learning Enthusiast | Android Developer | Chess Player ♞
 
 Welcome to my GitHub! I’m a passionate full-stack developer specializing in React, Node.js, and cloud technologies with a keen interest in AI/ML applications and Android game development. Whether it’s building scalable applications or exploring the latest in machine learning, I love bringing ideas to life through code.

@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivraj12&label=Profile%20views&color=0e75b6&style=flat" alt="shivraj12" /> </p>
 
-- 📫 How to reach me  **<a href="https://shivraj12.github.io/shivraj/" target="blank">Shivraj Deshmukh Portfolio</a>**     **deshmukh.shivraj996@gmail.com**
+- 📫 How to reach me  **<a href="https://shivraj12.github.io/shivraj/" target="blank">Shivraj Deshmukh Portfolio</a>**              **deshmukh.shivraj996@gmail.com**
   
 - 🌟 About me **A tech enthusiast with a mind wired for creativity and a passion for building digital experiences that solve real-world problems. Whether it’s building scalable applications or exploring the latest in machine learning, I love bringing ideas to life through code.**
 
